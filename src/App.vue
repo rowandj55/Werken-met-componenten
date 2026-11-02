@@ -1,6 +1,10 @@
-<template></template>
+<template>
+    <br />
+</template>
 
-<script setup></script>
+<script setup>
+import {ref, computed} from 'vue';
+</script>
 
 <!-- <template>
     <br />
