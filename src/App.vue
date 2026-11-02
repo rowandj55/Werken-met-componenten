@@ -1,4 +1,8 @@
-<template>
+<template></template>
+
+<script setup></script>
+
+<!-- <template>
     <br />
     <input v-model="newName" placeholder="Fill in your name" />
     <input v-model.number="newAge" placeholder="Fill in your age" type="number" />
@@ -71,4 +75,4 @@ function addPerson() {
         newAge.value = null;
     }
 }
-</script>
+</script> -->
